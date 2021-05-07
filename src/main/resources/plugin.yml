@@ -1,0 +1,5 @@
+name: Hello
+version: ${project.version}
+main: me.hello.me.jozo.Me.jozo
+api-version: 1.16
+description: Hello
